@@ -1,6 +1,10 @@
 #firebase_admin
 #streamlit
 #python==3.9.5
+streamlit~=1.0
+xgboost~=1.6.1
+urllib3~=1.26.5
+
 urllib3~=1.26.5
 numpy==1.22.4
 streamlit-option-menu
@@ -12,7 +16,7 @@ py3Dmol==2.0.4
 # recent change pandas~=1.4.2
 pandas
 # recent change streamlit~=1.21.0  
-streamlit 
+#streamlit 
 #streamlit~=1.28.0  
 shap~=0.41.0
 xgboost~=1.6.1
