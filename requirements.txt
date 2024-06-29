@@ -1,7 +1,7 @@
 #firebase_admin
 #streamlit
 #python==3.9.5
-streamlit~=1.0
+
 xgboost~=1.6.1
 urllib3~=1.26.5
 
